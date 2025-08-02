@@ -1,3 +1,3 @@
 This is a local repo..
 
-just for testing purpose..
+just for testing purpose...
